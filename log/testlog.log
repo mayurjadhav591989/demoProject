@@ -1,0 +1,219 @@
+2023-01-07 15:51:41,299 - Demo Project -INFO - application url is opened
+2023-01-07 15:54:54,418 - Demo Project -INFO - application url is opened
+2023-01-07 16:02:10,493 - Demo Project -INFO - application url is opened
+2023-01-07 16:03:34,301 - Demo Project -INFO - application url is opened
+2023-01-07 16:03:38,941 - Demo Project -INFO - username entered
+2023-01-07 16:03:39,155 - Demo Project -INFO - password entered
+2023-01-07 16:03:42,267 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:03:48,703 - Demo Project -INFO - clicked on log out link
+2023-01-07 16:03:48,729 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-07 16:03:53,632 - Demo Project -INFO - username entered
+2023-01-07 16:03:54,025 - Demo Project -INFO - password entered
+2023-01-07 16:03:55,211 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:04:02,343 - Demo Project -INFO - username entered
+2023-01-07 16:04:02,532 - Demo Project -INFO - password entered
+2023-01-07 16:04:05,296 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:04:10,761 - Demo Project -INFO - clicked on log out link
+2023-01-07 16:04:10,778 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-07 16:04:14,707 - Demo Project -INFO - username entered
+2023-01-07 16:04:14,919 - Demo Project -INFO - password entered
+2023-01-07 16:04:17,742 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:04:23,701 - Demo Project -INFO - username entered
+2023-01-07 16:04:23,923 - Demo Project -INFO - password entered
+2023-01-07 16:04:27,810 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:04:33,303 - Demo Project -INFO - clicked on log out link
+2023-01-07 16:04:33,324 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-07 16:08:24,303 - Demo Project -INFO - application url is opened
+2023-01-07 16:08:26,574 - Demo Project -INFO - username entered
+2023-01-07 16:08:26,774 - Demo Project -INFO - password entered
+2023-01-07 16:08:31,645 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:08:37,173 - Demo Project -INFO - clicked on log out link
+2023-01-07 16:08:42,907 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-07 16:08:43,391 - Demo Project -INFO - username entered
+2023-01-07 16:08:43,620 - Demo Project -INFO - password entered
+2023-01-07 16:08:44,685 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:11:23,432 - Demo Project -INFO - application url is opened
+2023-01-07 16:11:27,520 - Demo Project -INFO - username entered
+2023-01-07 16:11:27,767 - Demo Project -INFO - password entered
+2023-01-07 16:12:03,848 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:12:09,781 - Demo Project -INFO - clicked on log out link
+2023-01-07 16:12:13,664 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-07 16:12:13,986 - Demo Project -INFO - username entered
+2023-01-07 16:12:14,230 - Demo Project -INFO - password entered
+2023-01-07 16:12:15,468 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:14:43,694 - Demo Project -INFO - application url is opened
+2023-01-07 16:14:45,770 - Demo Project -INFO - username entered
+2023-01-07 16:14:45,964 - Demo Project -INFO - password entered
+2023-01-07 16:14:49,576 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:14:55,025 - Demo Project -INFO - clicked on log out link
+2023-01-07 16:14:55,048 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-07 16:15:02,697 - Demo Project -INFO - username entered
+2023-01-07 16:15:02,946 - Demo Project -INFO - password entered
+2023-01-07 16:15:04,116 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:33:39,236 - Demo Project -INFO - application url is opened
+2023-01-07 16:33:40,854 - Demo Project -INFO - User name is provided
+2023-01-07 16:33:43,285 - Demo Project -INFO - Passsword is provided
+2023-01-07 16:33:48,930 - Demo Project -INFO - providing customer details....
+2023-01-07 16:34:12,919 - Demo Project -INFO - validation started....
+2023-01-07 16:34:12,984 - Demo Project -INFO - test case passed....
+2023-01-07 16:44:20,187 - Demo Project -INFO - application url is opened
+2023-01-07 16:44:22,311 - Demo Project -INFO - username is entered
+2023-01-07 16:44:22,916 - Demo Project -INFO - password is entered
+2023-01-07 16:44:25,578 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:44:26,468 - Demo Project -INFO - web page title is verified successfully
+2023-01-07 16:44:35,455 - Demo Project -INFO - application url is opened
+2023-01-07 16:44:40,419 - Demo Project -INFO - username entered
+2023-01-07 16:44:40,675 - Demo Project -INFO - password entered
+2023-01-07 16:44:41,317 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:44:49,515 - Demo Project -INFO - clicked on log out link
+2023-01-07 16:44:49,569 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-07 16:44:53,357 - Demo Project -INFO - username entered
+2023-01-07 16:44:53,578 - Demo Project -INFO - password entered
+2023-01-07 16:44:54,893 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:45:08,997 - Demo Project -INFO - application url is opened
+2023-01-07 16:45:10,642 - Demo Project -INFO - User name is provided
+2023-01-07 16:45:12,498 - Demo Project -INFO - Passsword is provided
+2023-01-07 16:45:18,308 - Demo Project -INFO - providing customer details....
+2023-01-07 16:46:21,494 - Demo Project -INFO - application url is opened
+2023-01-07 16:46:25,005 - Demo Project -INFO - username is entered
+2023-01-07 16:46:25,278 - Demo Project -INFO - password is entered
+2023-01-07 16:46:29,023 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:46:29,042 - Demo Project -INFO - web page title is verified successfully
+2023-01-07 16:46:40,556 - Demo Project -INFO - application url is opened
+2023-01-07 16:46:44,516 - Demo Project -INFO - username entered
+2023-01-07 16:46:44,755 - Demo Project -INFO - password entered
+2023-01-07 16:46:48,700 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:46:54,169 - Demo Project -INFO - clicked on log out link
+2023-01-07 16:46:54,192 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-07 16:47:00,470 - Demo Project -INFO - username entered
+2023-01-07 16:47:01,982 - Demo Project -INFO - password entered
+2023-01-07 16:47:03,139 - Demo Project -INFO - clicked on Login button
+2023-01-07 16:47:19,777 - Demo Project -INFO - application url is opened
+2023-01-07 16:47:20,288 - Demo Project -INFO - User name is provided
+2023-01-07 16:47:21,117 - Demo Project -INFO - Passsword is provided
+2023-01-07 16:47:28,063 - Demo Project -INFO - providing customer details....
+2023-01-07 16:47:50,933 - Demo Project -INFO - validation started....
+2023-01-07 16:47:50,986 - Demo Project -INFO - test case passed....
+2023-01-08 07:21:12,801 - Demo Project -INFO - application url is opened
+2023-01-08 07:21:13,635 - Demo Project -INFO - username is entered
+2023-01-08 07:21:14,690 - Demo Project -INFO - password is entered
+2023-01-08 07:21:17,930 - Demo Project -INFO - clicked on Login button
+2023-01-08 07:21:17,955 - Demo Project -INFO - web page title is verified successfully
+2023-01-08 07:21:28,453 - Demo Project -INFO - application url is opened
+2023-01-08 07:21:31,807 - Demo Project -INFO - username entered
+2023-01-08 07:21:32,021 - Demo Project -INFO - password entered
+2023-01-08 07:21:36,358 - Demo Project -INFO - clicked on Login button
+2023-01-08 07:21:42,158 - Demo Project -INFO - clicked on log out link
+2023-01-08 07:21:42,188 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-08 07:21:58,066 - Demo Project -INFO - application url is opened
+2023-01-08 07:22:00,899 - Demo Project -INFO - User name is provided
+2023-01-08 07:22:01,216 - Demo Project -INFO - Passsword is provided
+2023-01-08 07:22:08,749 - Demo Project -INFO - providing customer details....
+2023-01-08 12:58:45,990 - Demo Project -INFO - application url is opened
+2023-01-08 12:58:49,829 - Demo Project -INFO - username is entered
+2023-01-08 12:58:50,031 - Demo Project -INFO - password is entered
+2023-01-08 12:58:54,586 - Demo Project -INFO - clicked on Login button
+2023-01-08 12:58:54,619 - Demo Project -INFO - web page title is verified successfully
+2023-01-08 12:59:07,015 - Demo Project -INFO - application url is opened
+2023-01-08 12:59:10,730 - Demo Project -INFO - username entered
+2023-01-08 12:59:11,052 - Demo Project -INFO - password entered
+2023-01-08 12:59:13,504 - Demo Project -INFO - clicked on Login button
+2023-01-08 12:59:18,955 - Demo Project -INFO - clicked on log out link
+2023-01-08 12:59:18,979 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-08 12:59:34,811 - Demo Project -INFO - application url is opened
+2023-01-08 12:59:36,136 - Demo Project -INFO - User name is provided
+2023-01-08 12:59:37,866 - Demo Project -INFO - Passsword is provided
+2023-01-08 12:59:45,548 - Demo Project -INFO - providing customer details....
+2023-01-08 13:00:06,205 - Demo Project -INFO - validation started....
+2023-01-08 13:00:06,273 - Demo Project -INFO - test case passed....
+2023-01-09 22:03:16,113 - Demo Project -INFO - application url is opened
+2023-01-09 22:03:16,918 - Demo Project -INFO - username is entered
+2023-01-09 22:03:19,126 - Demo Project -INFO - password is entered
+2023-01-09 22:03:25,361 - Demo Project -INFO - clicked on Login button
+2023-01-09 22:03:25,391 - Demo Project -INFO - web page title is verified successfully
+2023-01-09 22:03:46,777 - Demo Project -INFO - application url is opened
+2023-01-09 22:03:49,685 - Demo Project -INFO - username entered
+2023-01-09 22:03:49,987 - Demo Project -INFO - password entered
+2023-01-09 22:03:55,616 - Demo Project -INFO - clicked on Login button
+2023-01-09 22:04:04,917 - Demo Project -INFO - clicked on log out link
+2023-01-09 22:04:04,945 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-09 22:04:29,634 - Demo Project -INFO - application url is opened
+2023-01-09 22:04:30,245 - Demo Project -INFO - User name is provided
+2023-01-09 22:04:30,542 - Demo Project -INFO - Passsword is provided
+2023-01-09 22:04:38,682 - Demo Project -INFO - providing customer details....
+2023-01-14 07:24:53,591 - Demo Project -INFO - application url is opened
+2023-01-14 07:24:55,378 - Demo Project -INFO - username is entered
+2023-01-14 07:24:56,270 - Demo Project -INFO - password is entered
+2023-01-14 07:25:02,364 - Demo Project -INFO - clicked on Login button
+2023-01-14 07:25:02,403 - Demo Project -INFO - web page title is verified successfully
+2023-01-14 07:25:14,461 - Demo Project -INFO - application url is opened
+2023-01-14 07:25:18,325 - Demo Project -INFO - username entered
+2023-01-14 07:25:18,557 - Demo Project -INFO - password entered
+2023-01-14 07:25:22,977 - Demo Project -INFO - clicked on Login button
+2023-01-14 07:25:28,600 - Demo Project -INFO - clicked on log out link
+2023-01-14 07:25:28,620 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-14 07:25:44,583 - Demo Project -INFO - application url is opened
+2023-01-14 07:25:47,956 - Demo Project -INFO - User name is provided
+2023-01-14 07:25:48,240 - Demo Project -INFO - Passsword is provided
+2023-01-14 07:25:54,656 - Demo Project -INFO - providing customer details....
+2023-01-14 07:26:13,058 - Demo Project -INFO - validation started....
+2023-01-14 07:40:51,574 - Demo Project -INFO - application url is opened
+2023-01-14 07:40:54,623 - Demo Project -INFO - username is entered
+2023-01-14 07:40:54,820 - Demo Project -INFO - password is entered
+2023-01-14 07:40:57,688 - Demo Project -INFO - clicked on Login button
+2023-01-14 07:40:59,356 - Demo Project -INFO - web page title is verified successfully
+2023-01-14 07:41:12,531 - Demo Project -INFO - application url is opened
+2023-01-14 07:41:14,499 - Demo Project -INFO - username entered
+2023-01-14 07:41:14,716 - Demo Project -INFO - password entered
+2023-01-14 07:41:17,497 - Demo Project -INFO - clicked on Login button
+2023-01-14 07:41:22,994 - Demo Project -INFO - clicked on log out link
+2023-01-14 07:41:23,013 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-14 07:41:36,129 - Demo Project -INFO - application url is opened
+2023-01-14 07:41:40,105 - Demo Project -INFO - User name is provided
+2023-01-14 07:41:40,376 - Demo Project -INFO - Passsword is provided
+2023-01-14 07:41:46,493 - Demo Project -INFO - providing customer details....
+2023-01-14 07:42:04,355 - Demo Project -INFO - validation started....
+2023-01-14 07:46:13,134 - Demo Project -INFO - application url is opened
+2023-01-14 07:46:13,576 - Demo Project -INFO - username is entered
+2023-01-14 07:46:14,009 - Demo Project -INFO - password is entered
+2023-01-14 07:46:16,754 - Demo Project -INFO - clicked on Login button
+2023-01-14 07:46:16,780 - Demo Project -INFO - web page title is verified successfully
+2023-01-14 07:46:26,513 - Demo Project -INFO - application url is opened
+2023-01-14 07:46:30,748 - Demo Project -INFO - username entered
+2023-01-14 07:46:30,958 - Demo Project -INFO - password entered
+2023-01-14 07:46:33,470 - Demo Project -INFO - clicked on Login button
+2023-01-14 07:46:39,038 - Demo Project -INFO - clicked on log out link
+2023-01-14 07:46:39,056 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-14 14:55:43,151 - Demo Project -INFO - application url is opened
+2023-01-14 14:55:44,664 - Demo Project -INFO - username is entered
+2023-01-14 14:55:44,876 - Demo Project -INFO - password is entered
+2023-01-14 14:55:47,528 - Demo Project -INFO - clicked on Login button
+2023-01-14 14:55:47,566 - Demo Project -INFO - web page title is verified successfully
+2023-01-14 14:55:56,854 - Demo Project -INFO - application url is opened
+2023-01-14 14:56:01,473 - Demo Project -INFO - username entered
+2023-01-14 14:56:01,625 - Demo Project -INFO - password entered
+2023-01-14 14:56:05,021 - Demo Project -INFO - clicked on Login button
+2023-01-14 14:56:10,531 - Demo Project -INFO - clicked on log out link
+2023-01-14 14:56:10,555 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-14 16:05:22,067 - Demo Project -INFO - application url is opened
+2023-01-14 16:05:25,757 - Demo Project -INFO - username is entered
+2023-01-14 16:05:25,973 - Demo Project -INFO - password is entered
+2023-01-14 16:05:28,668 - Demo Project -INFO - clicked on Login button
+2023-01-14 16:05:30,145 - Demo Project -INFO - web page title verification failed
+2023-01-14 16:05:42,065 - Demo Project -INFO - application url is opened
+2023-01-14 16:05:47,103 - Demo Project -INFO - username entered
+2023-01-14 16:05:47,244 - Demo Project -INFO - password entered
+2023-01-14 16:05:50,027 - Demo Project -INFO - clicked on Login button
+2023-01-14 16:05:55,470 - Demo Project -INFO - clicked on log out link
+2023-01-14 16:05:55,494 - Demo Project -INFO - logged out and pop up is dismissed
+2023-01-14 16:09:42,761 - Demo Project -INFO - application url is opened
+2023-01-14 16:09:44,430 - Demo Project -INFO - username is entered
+2023-01-14 16:09:44,575 - Demo Project -INFO - password is entered
+2023-01-14 16:09:49,733 - Demo Project -INFO - clicked on Login button
+2023-01-14 16:09:49,790 - Demo Project -INFO - web page title is verified successfully
+2023-01-14 16:10:03,297 - Demo Project -INFO - application url is opened
+2023-01-14 16:10:07,404 - Demo Project -INFO - username entered
+2023-01-14 16:10:07,524 - Demo Project -INFO - password entered
+2023-01-14 16:10:11,441 - Demo Project -INFO - clicked on Login button
+2023-01-14 16:10:16,966 - Demo Project -INFO - clicked on log out link
+2023-01-14 16:10:16,984 - Demo Project -INFO - logged out and pop up is dismissed

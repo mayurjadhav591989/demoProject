@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-14T10:39:27Z" name="demoProject" finished-at="2023-01-14T10:40:22Z" duration-ms="55623">
+    <groups>
+    </groups>
+    <test started-at="2023-01-14T10:39:27Z" name="BankingApp Test" finished-at="2023-01-14T10:40:22Z" duration-ms="55623">
+      <class name="com.demoProject.testCases.TC_001_LoginTest">
+        <test-method is-config="true" signature="setUP(java.lang.String)[pri:0, instance:com.demoProject.testCases.TC_001_LoginTest@359f7cdf]" started-at="2023-01-14T10:39:27Z" name="setUP" finished-at="2023-01-14T10:39:42Z" duration-ms="15485" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="loginTest()[pri:0, instance:com.demoProject.testCases.TC_001_LoginTest@359f7cdf]" started-at="2023-01-14T10:39:42Z" name="loginTest" finished-at="2023-01-14T10:39:49Z" duration-ms="6862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoProject.testCases.TC_001_LoginTest@359f7cdf]" started-at="2023-01-14T10:39:49Z" name="tearDown" finished-at="2023-01-14T10:39:51Z" duration-ms="1514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoProject.testCases.TC_001_LoginTest -->
+      <class name="com.demoProject.testCases.TC_002_DataDrivenLoginTest">
+        <test-method is-config="true" signature="setUP(java.lang.String)[pri:0, instance:com.demoProject.testCases.TC_002_DataDrivenLoginTest@1fa268de]" started-at="2023-01-14T10:39:51Z" name="setUP" finished-at="2023-01-14T10:40:03Z" duration-ms="12185" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="ddLoginTest(java.lang.String, java.lang.String)[pri:0, instance:com.demoProject.testCases.TC_002_DataDrivenLoginTest@1fa268de]" started-at="2023-01-14T10:40:06Z" name="ddLoginTest" data-provider="Login data" finished-at="2023-01-14T10:40:21Z" duration-ms="15243" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr469182]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qAsAgup]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ddLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoProject.testCases.TC_002_DataDrivenLoginTest@1fa268de]" started-at="2023-01-14T10:40:21Z" name="tearDown" finished-at="2023-01-14T10:40:22Z" duration-ms="1072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoProject.testCases.TC_002_DataDrivenLoginTest -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- demoProject -->
+</testng-results>
